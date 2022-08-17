@@ -1,0 +1,11 @@
+.carousel{
+    margin-top: 135px;
+    
+}
+
+
+@media (max-width:1140px){
+    .carousel{
+      margin-top: 100px;
+    }
+  }
